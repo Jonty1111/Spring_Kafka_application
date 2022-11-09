@@ -1,10 +1,10 @@
 -> Added movie database (mongodb)
 -> continuous consuming (Listener) 
-POSTMAN LINK
+POSTMAN LINK:
 -> https://www.getpostman.com/collections/ae2a6946bdd31b2598a3
 
 
-ASSIGNEMENT
+ASSIGNEMENT:
 Kafka Spring Boot Assessment
 Model: Movie App => Movie Name, Creation Date, Rating
 Producer: Send Movie Details
